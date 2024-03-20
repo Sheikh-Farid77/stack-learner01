@@ -1,0 +1,159 @@
+body{
+    font-family: "Poppins", sans-serif;
+font-weight: 400;
+background-color: rgb(227, 224, 224);
+}
+.header {
+    font-size: 40px;
+}
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(17, 17, 52);
+    color: white;
+}
+.all{
+    height: 100px;
+    width: 1320px;
+    margin-left: 300px;
+    display: flex;
+}
+.container-subset{
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.property a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.my-skill-container{
+    width: 1320px;
+    margin-top: 35px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 0px 0px 40px gray;
+    background-color: white;
+    border-radius: 5px;
+    
+    
+
+}
+.my-skill-header {
+    
+    
+}
+.icon img {
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+.icon-information {
+    margin-top: 15px;
+    display: flex;
+    
+    
+    
+}
+.sub-skill-container {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.my-skill-header {
+    font-size: 20px;
+    font-weight: 600;
+}
+.information {
+    line-height: 20px;
+}
+.information h2 {
+    font-weight: 600;
+}
+.my-experience-section {
+    width: 1320px;
+    margin-top: 35px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 0px 0px 40px gray;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.sub-experiences {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.experience-information {
+    margin-top: 15px;
+    margin-right: 250px;
+    line-height: 25px;
+}
+.my-experience{
+    font-size: 20px;
+    font-weight: 600;
+}
+.experience-information h1 {
+    font-size: 20px;
+    font-weight: 550;
+}
+.experience-information h2 {
+    font-weight: 550;
+}
+.experience-information p{
+    font-size: 15px;
+}
+.my-portfolios {
+    width: 1320px;
+    margin-top: 35px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 0px 0px 40px gray;
+    background-color: white;
+    border-radius: 5px;
+}
+.photo-information {
+    margin-top: 30px;
+    width: 300px;
+    box-shadow: 0px 0px 40px rgb(217, 215, 215);
+    border-radius: 5px;
+    overflow: hidden;
+}
+.image-information {
+    margin-top: 15px;
+    
+}
+.image-information h1 {
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 550;
+    line-height: 40px;
+}
+.image-information p {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.picture {
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+
+
